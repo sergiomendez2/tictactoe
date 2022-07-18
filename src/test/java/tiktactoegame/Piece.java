@@ -1,8 +1,8 @@
 package tiktactoegame;
 
 public enum Piece {
-    HUMANPLAYER("X"),
-    IAPLAYER("O");
+    HUMANPLAYER("O"),
+    IAPLAYER("X");
 
     private final String piece;
 
